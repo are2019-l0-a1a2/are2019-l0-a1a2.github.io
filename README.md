@@ -9,9 +9,9 @@ GitHub pages for the ARE projects of groups L0-a1a2.
 List of student's projects:
 
 - [Hausse du banditisme](https://are2019-l0-a1a2.github.io/hausse_banditisme/)
-- [La Grippe](https://are2019-l0-a1a2/ARE-la-Grippe/)
-- [La disparition des baleines bleues](https://are2019-l0-a1a2/Les-baleines-bleues/)
-- [Remplissage d'une bibliothèque](https://are2019-l0-a1a2/mandri/)
+- [La Grippe](https://are2019-l0-a1a2.github.io/ARE-la-Grippe/)
+- [La disparition des baleines bleues](https://are2019-l0-a1a2.github.io/Les-baleines-bleues/)
+- [Remplissage d'une bibliothèque](https://are2019-l0-a1a2.github.io/mandri/)
 - ADD YOUR PROJECT HERE
 
 ## Contact
