@@ -10,6 +10,7 @@ List of student's projects:
 
 - [Hausse du banditisme](https://are2019-l0-a1a2.github.io/hausse_banditisme/)
 - [La Grippe](https://are2019-l0-a1a2/ARE-la-Grippe/)
+- [La disparition des baleines bleues](https://are2019-l0-a1a2/Les-baleines-bleues/)
 - ADD YOUR PROJECT HERE
 
 ## Contact
