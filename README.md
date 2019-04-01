@@ -6,8 +6,9 @@ GitHub pages for the ARE projects of groups L0-a1a2.
 
 ## Projects
 
-List of Projects:
+List of student's projects:
 
+- [Hausse du banditisme](https://are2019-l0-a1a2.github.io/hausse_banditisme)
 - ADD YOUR PROJECT HERE
 
 ## Contact
