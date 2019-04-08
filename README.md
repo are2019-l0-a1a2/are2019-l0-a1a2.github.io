@@ -12,6 +12,7 @@ List of student's projects:
 - [La Grippe](https://are2019-l0-a1a2.github.io/ARE-la-Grippe/)
 - [La disparition des baleines bleues](https://are2019-l0-a1a2.github.io/Les-baleines-bleues/)
 - [Remplissage d'une bibliothèque](https://are2019-l0-a1a2.github.io/mandri/)
+- [Propagation d'un feu de forêt](https://are2019-l0-a1a2.github.io/propagation-feu-de-foret/)
 - ADD YOUR PROJECT HERE
 
 ## Contact
