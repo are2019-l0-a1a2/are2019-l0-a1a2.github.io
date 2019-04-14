@@ -11,7 +11,7 @@ List of student's projects:
 - [Hausse du banditisme](https://are2019-l0-a1a2.github.io/hausse_banditisme/)
 - [La Grippe](https://are2019-l0-a1a2.github.io/ARE-la-Grippe/)
 - [La disparition des baleines bleues](https://are2019-l0-a1a2.github.io/Les-baleines-bleues/)
-- [Remplissage d'une bibliothèque](https://are2019-l0-a1a2.github.io/mandri/)
+- [Remplissage d'une bibliothèque](https://are2019-l0-a1a2.github.io/Remplissage_bibliotheque/)
 - [Propagation d'un feu de forêt](https://are2019-l0-a1a2.github.io/propagation-feu-de-foret/)
 - [Dynamique des molécules](https://are2019-l0-a1a2.github.io/ARE_MOLECULES/)
 
